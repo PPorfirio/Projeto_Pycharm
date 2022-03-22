@@ -1,0 +1,6 @@
+www.google.com.br
+8.8.8.8
+www.pudim.com.br
+4.4.4.4
+www.infradatabusiness.com
+2.2.2.2
