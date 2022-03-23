@@ -1,0 +1,2 @@
+
+Realizando comparações de hash dentro dos arquivos.
