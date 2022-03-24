@@ -1,2 +1,2 @@
-
+Arquivo usado no código de comparador de hash
 Realizando comparações de hash dentro dos arquivos.
